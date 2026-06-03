@@ -1,2 +1,15 @@
 # UltimateAgentStack
-Unified meta-framework combining CrewAI, browser-use, Composio, LlamaIndex, OpenClaw, MetaGPT, Flowise, AutoGen, n8n capabilities into one powerful autonomous AI system. One repo to rule all agent tasks: multi-agent orchestration, browser automation, tool integration, RAG, workflows, visual building, natural language to code, personal assistants.
+
+One repo combining all: CrewAI (multi-agents), browser-use (browser auto), Composio (tools), LlamaIndex (RAG), OpenClaw (autonomous personal AI), MetaGPT (NL to code), Flowise (visual), AutoGen (enterprise).
+
+## Unified Capabilities
+- Multi-agent orchestration
+- Browser automation
+- Tool calling
+- RAG & repo understanding
+- Workflows & flows
+- Visual builder
+- Natural language programming
+- Personal multi-platform assistant
+
+All skills adapted. Run orchestrator for any task.
